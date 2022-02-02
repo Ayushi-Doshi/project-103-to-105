@@ -1,0 +1,18 @@
+body{
+    color:blue;
+    background:burlywood;
+}
+.heading{
+    width:80%;
+    font-size: 25px;
+}
+#camera{
+    border:2px dotted red;
+    width: 350px;
+    height:300px;
+
+}
+.noo,#rpn,#roa {
+    color:cyan;
+    font-size: 25px;
+}
